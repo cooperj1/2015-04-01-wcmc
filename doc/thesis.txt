@@ -1,4 +1,4 @@
 this is my thesis...
 something something
 By: Jon Cooper
-Title: How to CRISPR/cas9
+Title: How to use CRISPR/Cas9 to win my PhD
