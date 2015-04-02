@@ -1,2 +1,4 @@
 this is my thesis...
 something something
+By: Jon Cooper
+Title: How to CRISPR
